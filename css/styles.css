@@ -94,7 +94,7 @@ a:active, a {
     color: #2384c4;
 
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
 p#whiteNumber{
     margin-right: 10em;
     position: static;
