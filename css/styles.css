@@ -94,9 +94,14 @@ a:active, a {
     color: #2384c4;
 
 }
-@media only screen and (max-width: 500px) {
+
+.card {
+    height:750px;
+}
+@media only screen and (max-width: 600px) {
 p#whiteNumber{
     margin-right: 10em;
     position: static;
 }
+
   }
