@@ -100,7 +100,8 @@ a:active, a {
 }
 @media only screen and (max-width: 390px) {
 #navbarBlue {
-    display:none;
+    display: none!important;
+    visibility: hidden
 }
 
   }
