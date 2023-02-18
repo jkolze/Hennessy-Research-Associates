@@ -99,9 +99,8 @@ a:active, a {
     height:750px;
 }
 @media only screen and (max-width: 600px) {
-p#whiteNumber{
-    margin-right: 144px;
-    position: relative;
+#navbarBlue {
+    display:none;
 }
 
   }
