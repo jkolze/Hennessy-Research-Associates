@@ -98,10 +98,13 @@ a:active, a {
 .card {
     height:750px;
 }
-@media only screen and (max-width: 390px) {
-#navbarBlue {
-    display: none!important;
-    visibility: hidden
-}
+@media only screen and (max-width: 600px) {
+    p#whiteNumber{
+        vertical-align: middle;
+        display:inline-flex;
+        margin-left: 1em;
+        font-weight:600;
+        color:#fff;
+    }
 
   }
