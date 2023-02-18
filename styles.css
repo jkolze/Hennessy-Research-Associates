@@ -1,0 +1,107 @@
+a#logo.navbar-brand {
+    content: url(../images/logo.png);
+    width: 271px;
+    height: 64px;
+
+}
+
+.bg-light {
+    background-color: #fff!important;
+}
+
+
+.bg-navy{
+    background-color: #277fc9;
+}
+
+.fa-solid, .fas {
+    font-weight: 900;
+}
+
+i.fa-solid.fa-envelope.fa-2x {
+    color:white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link  {
+color: #212429;
+}
+
+.icon-white{
+    color:#fff;
+    font-weight:900;
+
+}
+.white{
+    color:#fff;
+    font-weight:700;
+
+}
+p#white{
+    vertical-align: middle;
+    display:inline-flex;
+    margin-left: 1em;
+    font-weight:600;
+    color:#fff;
+    padding-top: 10px;
+}
+
+p#whiteNumber{
+    vertical-align: middle;
+    display:inline-flex;
+    margin-left: 1em;
+    font-weight:600;
+    color:#fff;
+    padding-top: 10px;
+}
+
+.card-title {
+    color:green;
+    font-weight:700;
+}
+
+.green {
+    font-weight: 900;
+    color: #00A87B;
+    width: 100%;
+    text-align: center;
+}
+
+.blue {
+    color: #2384c4;
+}
+
+.yellow{
+    color:#EDC000
+}
+
+.center{
+    text-align: center;
+
+}
+
+.parent {
+    text-align: center;
+  }
+  .parent > ul {
+    display: inline-block;
+  }
+
+
+  .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #2384c4;
+    text-decoration: underline;
+}
+a:active, a {
+    color: #2384c4;
+
+}
+
+.card {
+    height:750px;
+}
+@media only screen and (max-width: 600px) {
+p#whiteNumber{
+    margin-right: 0em;
+    position: static;
+}
+
+  }
