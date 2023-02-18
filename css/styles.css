@@ -98,13 +98,9 @@ a:active, a {
 .card {
     height:750px;
 }
-@media only screen and (max-width: 600px) {
-    p#whiteNumber{
-        vertical-align: middle;
-        display:inline-flex;
-        margin-left: 1em;
-        font-weight:600;
-        color:#fff;
+@media (max-width: 767px) {
+    .card {
+      width: 24rem!important;
+      height: 826px;
     }
-
   }
