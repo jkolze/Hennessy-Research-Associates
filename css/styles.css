@@ -35,6 +35,10 @@ color: #212429;
     font-weight:700;
 
 }
+
+a#white{
+    color:#fff;
+}
 p#white{
     vertical-align: middle;
     display:inline-flex;
@@ -95,7 +99,6 @@ a#jobLink {
     color: #2384c4;
 
 }
-
 
 
 .card {
