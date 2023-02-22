@@ -1,5 +1,5 @@
 a#logo.navbar-brand {
-    content: url(../images/logo-removebg-preview.png);
+    content: url(../images/logo.png);
     width: 271px;
     height: 64px;
 
@@ -95,14 +95,8 @@ a#jobLink {
     color: #2384c4;
 
 }
-a:active, a {
-    color: #fff;
 
-}
 
-a:hover {
-   color: #fff;
-  }
 
 .card {
     height:750px;
