@@ -90,10 +90,19 @@ p#whiteNumber{
     color: #2384c4;
     text-decoration: underline;
 }
-a:active, a {
+
+a#jobLink {
     color: #2384c4;
 
 }
+a:active, a {
+    color: #fff;
+
+}
+
+a:hover {
+   color: #fff;
+  }
 
 .card {
     height:750px;
