@@ -1,5 +1,5 @@
 a#logo.navbar-brand {
-    content: url(../images/logo.png);
+    content: url(../images/logo-removebg-preview.png);
     width: 271px;
     height: 64px;
 
@@ -38,6 +38,7 @@ color: #212429;
 p#white{
     vertical-align: middle;
     display:inline-flex;
+    margin-left: 1em;
     font-weight:600;
     color:#fff;
     padding-top: 10px;
