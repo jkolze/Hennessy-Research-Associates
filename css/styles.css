@@ -104,6 +104,11 @@ a#jobLink {
 .card {
     height:750px;
 }
+a[href^="tel"] {
+    color: inherit; /* Inherit text color of parent element. */
+    text-decoration: none; /* Remove underline. */
+    /* Additional css `propery: value;` pairs here */
+  }
 @media (max-width: 767px) {
     .card {
       width: 24rem!important;
