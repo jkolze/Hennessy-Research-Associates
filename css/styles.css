@@ -115,7 +115,7 @@ a[href^="tel"] {
       height: 826px;
     }
     p#whiteNumber{
-        margin-right: 10em;
+        margin-right: 6em;
         position: static;
     }
   }
